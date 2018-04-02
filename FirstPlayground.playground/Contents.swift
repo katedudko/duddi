@@ -35,6 +35,7 @@ values.append(1)     //добавление нового элемента в м�
 values.append(2)
 
 var names = ["Dmitry",
+             "",
              "Vlad",
              "Kate"]
 
